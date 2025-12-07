@@ -1,122 +1,113 @@
+📊 Retail Analytics Dashboard
 
+🎓 Ce projet est mon tout premier projet Data Analyst.
+J’ai appris à construire un dashboard professionnel étape par étape, accompagné par ChatGPT comme assistant pédagogique pour accélérer mon apprentissage et adopter les bonnes pratiques.
+🙏 Merci pour votre lecture. Je suis ouvert à tout retour ou conseil pour améliorer ce projet ou progresser dans mon parcours de Data Analyst.
 
-> 🎓 Ce projet est mon tout premier projet Data Analyst.
-> J’ai appris à construire un dashboard professionnel étape par étape,  
-> accompagné par *ChatGPT comme assistant pédagogique* pour accélérer mon apprentissage  
-> et comprendre les bonnes pratiques en analyse de données.
-> Merci pour votre lecture.  
-Je suis ouvert à tout retour ou conseil pour améliorer ce projet ou progresser dans mon parcours Data Analyst.
+🛍️ Description du projet
 
+Un tableau de bord interactif conçu pour analyser les ventes d’une boutique à partir d’un dataset retail.
+Il combine Python, Pandas, Streamlit, Matplotlib et Seaborn pour offrir une vue dynamique et professionnelle des performances commerciales.
 
-# 🛍️ Retail Analytics Dashboard
+🚀 Technologies utilisées
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Seaborn-4A90E2?style=for-the-badge"/> </p>
+🎯 Objectifs
 
+Identifier les catégories de produits les plus performantes
 
-Un tableau de bord interactif conçu pour analyser les ventes d’une boutique à partir d’un dataset retail.  
-Ce projet combine **Python, Pandas, Streamlit, Matplotlib et Seaborn** pour offrir une vue claire, dynamique et professionnelle des performances commerciales.
+Mettre en lumière les pics d’achats selon les jours et mois
 
----
+Analyser les tendances du chiffre d’affaires
 
-# 📊 1. Objectifs du Projet
+Étudier le comportement d’achat selon le genre
 
-- Identifier les catégories de produits les plus rentables  
-- Analyser les comportements d'achat selon les jours et les mois  
-- Étudier les tendances du chiffre d’affaires  
-- Explorer le profil des clients (genre, habitudes d’achat)  
-- Construire un dashboard professionnel et clair
----
+Construire un dashboard complet et professionnel
 
-# 📂 2. Structure du Projet
+Enrichir mon portfolio pour devenir Data Analyst
 
+📁 Structure du projet
 📁 retail-analytics-dashboard
 │── dashboard.py
 │── requirements.txt
-│── retail_sample.csv ou retail.csv
+│── retail_sample.csv (optionnel)
 │── Screenshots/
-│ ├── Dailytrend.png
-│ ├── Dailyweek.png
-│ ├── Gendercustomer.png
-│ ├── Global.png
-│ ├── Globaltrend.png
-│ ├── Heatmaps.png
-│ ├── Monthlytrend.png
-│ ├── MonthxCategory.png
+│     ├── Dailytrend.png
+│     ├── Dailyweek.png
+│     ├── Gendercustomer.png
+│     ├── Global.png
+│     ├── Globaltrend.png
+│     ├── Heatmaps.png
+│     ├── Monthlytrend.png
+│     ├── MonthxCategory.png
 │── README.md
 
----
+🖼️ Aperçu du dashboard
+🔹 Vue globale
 
-# 🧮 3. Fonctionnalités du Dashboard
+🔥 Heatmaps — pics d’achats
 
-## ✅ KPI principaux
-- 💶 Chiffre d’affaires total  
-- 🧾 Nombre de transactions  
-- 🧺 Panier moyen  
-- 👤 Nombre de clients uniques  
+📈 Analyse temporelle
+Chiffre d’affaires journalier
 
-📸 *Aperçu :*
+CA par jour de la semaine
 
-![KPIs](Screenshots/Global.png)
+Chiffre d’affaires mensuel
 
----
+Tendance générale
 
-## 📈 4. Analyses temporelles
+👥 Analyse client
 
-### 🔹 Tendance journalière du CA
-![Daily Trend](Screenshots/Dailytrend.png)
+🧠 Compétences démontrées
+Techniques
 
-### 🔹 Tendance hebdomadaire (jours de la semaine)
-![Daily Week](Screenshots/Dailyweek.png)
+Nettoyage, préparation et exploration des données
 
-### 🔹 Tendance mensuelle
-![Monthly Trend](Screenshots/Monthlytrend.png)
+Manipulations avancées : groupby, pivot_table, filtrage
 
-### 🔹 Tendance globale
-![Global Trend](Screenshots/Globaltrend.png)
+Visualisation : barplots, courbes, heatmaps
 
----
+Développement d’un tableau de bord interactif Streamlit
 
-# 🔥 5. Heatmaps — Pics d’achats
+Structuration d’un projet Data Analytics
 
-### 🔹 Jour × Catégorie
-### 🔹 Mois × Catégorie
+Professionnelles
 
-Ces graphiques permettent d’identifier les périodes les plus actives.
+Analyse métier orientée performance commerciale
 
-📸 *Aperçu :*  
-![Heatmaps](Screenshots/Heatmaps.png)
+Communication visuelle des résultats
 
-![Month x Category](Screenshots/MonthxCategory.png)
+Rédaction d’un README professionnel
 
----
+Utilisation de Git & GitHub pour versionning
 
-# 🧑‍🤝‍🧑 6. Analyse par Genre
+🛠️ Installation
 
-Analyse de la répartition client + performance par genre.
+Cloner le projet :
 
-📸 Exemple :  
-![Gender Analysis](Screenshots/Gendercustomer.png)
-
----
-
-# 🧠 7. Compétences Démontrées
-
-- Nettoyage & préparation de données  
-- Manipulation avancée avec Pandas  
-- Création de visualisations : barplots, heatmaps, pie charts, courbes de tendance  
-- Développement d’un dashboard interactif avec Streamlit  
-- Structuration d’un projet Data professionnel  
-- Versionnement avec Git & GitHub  
-
----
-
-# 🛠️ 8. Technologies Utilisées
-
-- Python 3  
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Streamlit  
-
----
+git clone https://github.com/ton-pseudo/retail-analytics-dashboard.git
+cd retail-analytics-dashboard
 
 
+Installer les dépendances :
+
+pip install -r requirements.txt
+
+▶️ Lancer le dashboard
+streamlit run dashboard.py
+
+
+Le dashboard s’ouvrira automatiquement dans votre navigateur.
+
+💬 Remerciements
+
+Merci d’avoir pris le temps de découvrir mon projet.
+Si vous avez des suggestions, des conseils ou des retours, je suis très preneur 🙌
+Mon objectif est de progresser rapidement et d'améliorer mes compétences de Data Analyst.
+
+📬 Contact
+
+💼 LinkedIn : à ajouter
+
+📧 Email : à ajouter
+
+🐙 GitHub : https://github.com/ton-pseudo
