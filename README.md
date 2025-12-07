@@ -28,6 +28,7 @@ Ce projet simule le travail d'un **Data Analyst** chargé de fournir des insight
 
 ## 📁 Structure du projet
 
+```bash
 
 retail-analytics-dashboard/
 │
