@@ -75,6 +75,7 @@ Développement d’un dashboard Streamlit
 
 Structuration d’un projet Data Analytics complet
 
+
 👔 Métier & Communication
 
 Analyse orientée performance commerciale
@@ -88,6 +89,7 @@ Documentation professionnelle (README structuré)
 Utilisation de Git & GitHub pour le versionnage
 
 🛠️ Installation
+
 Cloner le dépôt :
 git clone https://github.com/dotdatamat/retail-analytics-dashboard.git
 cd retail-analytics-dashboard
