@@ -35,7 +35,7 @@ retail-analytics-dashboard/
 │
 ├── dashboard.py
 ├── requirements.txt
-├── retail_sample.csv       (optionnel)
+├── retail_sample.csv       
 ├── README.md
 │
 ├── Screenshots/
