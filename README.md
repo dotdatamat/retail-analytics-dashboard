@@ -1,29 +1,26 @@
+:
+
 📊 Retail Analytics Dashboard
 
-🎓 Ce projet est mon tout premier projet Data Analyst.
-J’ai appris à construire un dashboard professionnel étape par étape, accompagné par ChatGPT comme assistant pédagogique pour accélérer mon apprentissage et adopter les bonnes pratiques.
-🙏 Merci pour votre lecture. Je suis ouvert à tout retour ou conseil pour améliorer ce projet ou progresser dans mon parcours de Data Analyst.
+🎓 Premier projet Data Analyst.
+Construit étape par étape avec l’aide de ChatGPT comme assistant pédagogique, ce projet m’a permis d’apprendre les bonnes pratiques d’analyse de données et de créer un dashboard professionnel complet.
+🙏 Merci pour votre lecture. Je suis ouvert à tout retour ou conseil pour progresser dans mon parcours de Data Analyst.
 
 🛍️ Description du projet
 
-Un tableau de bord interactif conçu pour analyser les ventes d’une boutique à partir d’un dataset retail.
-Il combine Python, Pandas, Streamlit, Matplotlib et Seaborn pour offrir une vue dynamique et professionnelle des performances commerciales.
+Un dashboard interactif permettant d'analyser les ventes d’une boutique grâce à un dataset retail.
+Ce projet combine des technologies modernes pour offrir une visualisation claire, dynamique et professionnelle des performances commerciales.
 
 🚀 Technologies utilisées
-<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Seaborn-4A90E2?style=for-the-badge"/> </p>
-🎯 Objectifs
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Seaborn-4A90E2?style=for-the-badge"/> </p>
+🎯 Objectifs du projet
 
-Identifier les catégories de produits les plus performantes
-
-Mettre en lumière les pics d’achats selon les jours et mois
-
-Analyser les tendances du chiffre d’affaires
-
-Étudier le comportement d’achat selon le genre
-
-Construire un dashboard complet et professionnel
-
-Enrichir mon portfolio pour devenir Data Analyst
+✔ Identifier les catégories de produits les plus performantes
+✔ Mettre en évidence les pics d’achat (jours & mois)
+✔ Analyser les tendances du chiffre d’affaires
+✔ Comprendre les comportements d’achat selon le genre
+✔ Concevoir un dashboard complet avec Streamlit
+✔ Enrichir mon portfolio Data Analyst
 
 📁 Structure du projet
 📁 retail-analytics-dashboard
@@ -42,47 +39,53 @@ Enrichir mon portfolio pour devenir Data Analyst
 │── README.md
 
 🖼️ Aperçu du dashboard
-🔹 Vue globale
-
-🔥 Heatmaps — pics d’achats
-
+🌐 Vue globale des performances
+<div align="center"> <img src="Screenshots/Global.png" width="80%"> </div>
+🔥 Heatmaps — Pics d’achats
+📅 Intensité par jour de la semaine
+<div align="center"> <img src="Screenshots/Heatmaps.png" width="80%"> </div>
+📆 catégories × mois
+<div align="center"> <img src="Screenshots/MonthxCategory.png" width="80%"> </div>
 📈 Analyse temporelle
-Chiffre d’affaires journalier
-
-CA par jour de la semaine
-
-Chiffre d’affaires mensuel
-
-Tendance générale
-
+📉 Chiffre d’affaires journalier
+<div align="center"> <img src="Screenshots/Dailytrend.png" width="80%"> </div>
+📊 CA par jour de la semaine
+<div align="center"> <img src="Screenshots/Dailyweek.png" width="80%"> </div>
+📆 Chiffre d’affaires mensuel
+<div align="center"> <img src="Screenshots/Monthlytrend.png" width="80%"> </div>
+📈 Tendance globale
+<div align="center"> <img src="Screenshots/Globaltrend.png" width="80%"> </div>
 👥 Analyse client
-
+<div align="center"> <img src="Screenshots/Gendercustomer.png" width="60%"> </div>
 🧠 Compétences démontrées
-Techniques
+🔧 Techniques
 
-Nettoyage, préparation et exploration des données
+Nettoyage & préparation des données
 
-Manipulations avancées : groupby, pivot_table, filtrage
+Manipulations avancées avec Pandas :
+groupby, pivot_table, filtres
 
-Visualisation : barplots, courbes, heatmaps
+Visualisation (Matplotlib & Seaborn)
 
-Développement d’un tableau de bord interactif Streamlit
+Développement d’un dashboard Streamlit
 
-Structuration d’un projet Data Analytics
+Structuration d’un projet Data Analytics complet
 
-Professionnelles
+👔 Métier & Communication
 
-Analyse métier orientée performance commerciale
+Analyse orientée performance commerciale
 
-Communication visuelle des résultats
+Traduction des données en insights exploitables
 
-Rédaction d’un README professionnel
+Présentation claire avec illustrations et sections visuelles
 
-Utilisation de Git & GitHub pour versionning
+Documentation professionnelle (README structuré)
+
+Utilisation de Git & GitHub pour le versionnage
 
 🛠️ Installation
 
-Cloner le projet :
+Cloner le dépôt :
 
 git clone https://github.com/ton-pseudo/retail-analytics-dashboard.git
 cd retail-analytics-dashboard
@@ -100,14 +103,13 @@ Le dashboard s’ouvrira automatiquement dans votre navigateur.
 
 💬 Remerciements
 
-Merci d’avoir pris le temps de découvrir mon projet.
-Si vous avez des suggestions, des conseils ou des retours, je suis très preneur 🙌
-Mon objectif est de progresser rapidement et d'améliorer mes compétences de Data Analyst.
+Merci d’avoir pris le temps de découvrir mon projet 🙌
+Je suis preneur de toute suggestion afin de continuer à progresser dans le domaine du Data Analytics.
 
 📬 Contact
 
-💼 LinkedIn : à ajouter
+💼 LinkedIn : à venir
 
-📧 Email : à ajouter
+📧 Email : à venir
 
-🐙 GitHub : https://github.com/ton-pseudo
+🐙 GitHub : https://github.com/dotdatamat
