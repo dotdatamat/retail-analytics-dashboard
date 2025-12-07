@@ -26,21 +26,24 @@ Ce projet combine des technologies modernes pour offrir une visualisation claire
 
 ✔ Enrichir mon portfolio Data Analyst
 
-📁 Structure du projet
-📁 retail-analytics-dashboard
-│── dashboard.py
-│── requirements.txt
-│── retail_sample.csv 
-│── Screenshots/
-│     ├── Dailytrend.png
-│     ├── Dailyweek.png
-│     ├── Gendercustomer.png
-│     ├── Global.png
-│     ├── Globaltrend.png
-│     ├── Heatmaps.png
-│     ├── Monthlytrend.png
-│     ├── MonthxCategory.png
-│── README.md
+retail-analytics-dashboard/
+│
+├── dashboard.py
+├── requirements.txt
+├── retail_sample.csv       
+├── README.md
+│
+├── Screenshots/
+│   ├── Dailytrend.png
+│   ├── Dailyweek.png
+│   ├── Gendercustomer.png
+│   ├── Global.png
+│   ├── Globaltrend.png
+│   ├── Heatmaps.png
+│   ├── Monthlytrend.png
+│   └── MonthxCategory.png
+│
+
 
 🖼️ Aperçu du dashboard
 🌐 Vue globale des performances
