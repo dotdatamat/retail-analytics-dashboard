@@ -1,4 +1,3 @@
-:
 
 📊 Retail Analytics Dashboard
 
