@@ -26,11 +26,16 @@ Ce projet combine des technologies modernes pour offrir une visualisation claire
 
 ✔ Enrichir mon portfolio Data Analyst
 
+## 📁 Structure du projet
+
+<details>
+<summary><strong>📦 Voir l’arborescence du projet</strong></summary>
+
 retail-analytics-dashboard/
 │
 ├── dashboard.py
 ├── requirements.txt
-├── retail_sample.csv       
+├── retail_sample.csv       (optionnel)
 ├── README.md
 │
 ├── Screenshots/
@@ -43,6 +48,10 @@ retail-analytics-dashboard/
 │   ├── Monthlytrend.png
 │   └── MonthxCategory.png
 │
+
+</details>
+
+
 
 
 🖼️ Aperçu du dashboard
