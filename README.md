@@ -15,10 +15,15 @@ Ce projet combine des technologies modernes pour offrir une visualisation claire
 🎯 Objectifs du projet
 
 ✔ Identifier les catégories de produits les plus performantes
+
 ✔ Mettre en évidence les pics d’achat (jours & mois)
+
 ✔ Analyser les tendances du chiffre d’affaires
+
 ✔ Comprendre les comportements d’achat selon le genre
+
 ✔ Concevoir un dashboard complet avec Streamlit
+
 ✔ Enrichir mon portfolio Data Analyst
 
 📁 Structure du projet
@@ -83,15 +88,11 @@ Documentation professionnelle (README structuré)
 Utilisation de Git & GitHub pour le versionnage
 
 🛠️ Installation
-
 Cloner le dépôt :
-
-git clone https://github.com/ton-pseudo/retail-analytics-dashboard.git
+git clone https://github.com/dotdatamat/retail-analytics-dashboard.git
 cd retail-analytics-dashboard
 
-
 Installer les dépendances :
-
 pip install -r requirements.txt
 
 ▶️ Lancer le dashboard
@@ -99,6 +100,7 @@ streamlit run dashboard.py
 
 
 Le dashboard s’ouvrira automatiquement dans votre navigateur.
+
 
 💬 Remerciements
 
