@@ -1,4 +1,15 @@
+
+
+> 🎓 Ce projet est mon tout premier projet Data Analyst.
+> J’ai appris à construire un dashboard professionnel étape par étape,  
+> accompagné par *ChatGPT comme assistant pédagogique* pour accélérer mon apprentissage  
+> et comprendre les bonnes pratiques en analyse de données.
+> Merci pour votre lecture.  
+Je suis ouvert à tout retour ou conseil pour améliorer ce projet ou progresser dans mon parcours Data Analyst.
+
+
 # 🛍️ Retail Analytics Dashboard
+
 
 Un tableau de bord interactif conçu pour analyser les ventes d’une boutique à partir d’un dataset retail.  
 Ce projet combine **Python, Pandas, Streamlit, Matplotlib et Seaborn** pour offrir une vue claire, dynamique et professionnelle des performances commerciales.
@@ -11,8 +22,7 @@ Ce projet combine **Python, Pandas, Streamlit, Matplotlib et Seaborn** pour offr
 - Analyser les comportements d'achat selon les jours et les mois  
 - Étudier les tendances du chiffre d’affaires  
 - Explorer le profil des clients (genre, habitudes d’achat)  
-- Construire un **dashboard professionnel** pour un portfolio Data Analyst
-
+- Construire un dashboard professionnel et clair
 ---
 
 # 📂 2. Structure du Projet
