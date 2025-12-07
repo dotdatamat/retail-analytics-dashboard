@@ -30,7 +30,7 @@ Ce projet combine des technologies modernes pour offrir une visualisation claire
 📁 retail-analytics-dashboard
 │── dashboard.py
 │── requirements.txt
-│── retail_sample.csv (optionnel)
+│── retail_sample.csv 
 │── Screenshots/
 │     ├── Dailytrend.png
 │     ├── Dailyweek.png
