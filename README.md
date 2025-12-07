@@ -28,10 +28,10 @@ Ce projet simule le travail d'un **Data Analyst** chargé de fournir des insight
 
 ## 📁 Structure du projet
 
-```bash
+
 retail-analytics-dashboard/
 │
 ├── dashboard.py          # Code du dashboard Streamlit
-├── retail.csv (optionnel) # Dataset (ou version anonymisée / sample)
+├── retail.csv            # Dataset 
 ├── requirements.txt      # Dépendances Python
 └── screenshots/          # Captures d’écran du dashboard
